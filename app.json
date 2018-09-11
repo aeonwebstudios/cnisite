@@ -1,6 +1,6 @@
 {
     "name": "cni south sudan",
-    "repository":"https://github.com/aeonwebstudios/cni.git",
+    "repository":"https://github.com/aeonwebstudios/cnisite.git",
     "logo": "https://cnisouthsudan.herokuapp.com/node.svg",
     "keywords":["node","express","static"],
     "image":"cni/nodejs"
