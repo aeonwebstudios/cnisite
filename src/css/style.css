@@ -7,7 +7,7 @@ body {
   opacity: 0.8; }
 
 #home-section {
-  background-color: #1a83bb;
+  background: url("../img/boy.jpeg") no-repeat;
   min-height: 2500px;
   background-size: cover;
   background-attachment: fixed; }
