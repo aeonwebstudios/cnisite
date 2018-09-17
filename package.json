@@ -15,12 +15,12 @@
     "popper.js": "^1.11.1"
   },
   "devDependencies": {
+    "body-parser": "^1.18.3",
     "browser-sync": "^2.18.13",
+    "express": "^4.16.3",
     "gulp": "^3.9.1",
     "gulp-sass": "^3.1.0",
-    "express":"*",
-    "body-parser":"*",
-    "nodemailer":"*",
-    "pug":"*"
+    "nodemailer": "^4.6.8",
+    "pug": "*"
   }
 }
